@@ -1,2 +1,2 @@
-# Second-year-project---Greenhouse-control-system-
+# Greenhouse-control-system-
 wiring language
